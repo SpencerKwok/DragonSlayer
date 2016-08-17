@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>health.png</file>
+        <file>items.png</file>
+        <file>sword.png</file>
+        <file>shield.png</file>
+        <file>gold.png</file>
+        <file>goldpot.png</file>
+        <file>forest.png</file>
+        <file>goblin.png</file>
+        <file>wolf.png</file>
+	<file>skeleton.jpg</file>
+	<file>zombie.png</file>
+	<file>ghost.png</file>
+	<file>dragon.png</file>
+	<file>exclamation.png</file>
+	<file>soldier.png</file>
+	<file>shop.png</file>
+    </qresource>
+</RCC>
