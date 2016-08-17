@@ -1,0 +1,5 @@
+1 wolf 3 2 200 :/pics/wolf.png
+2 skeleton 5 3 300 :/pics/skeleton.jpg
+3 zombie 6 3 400 :/pics/zombie.png
+4 ghost 5 5 400 :/pics/ghost.png
+5 soldier 8 9 600 :/pics/soldier.png
